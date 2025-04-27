@@ -1,5 +1,9 @@
+> [!IMPORTANT]
+> ### This project has been halted indefinitely.
+> As a result, no user support or updates (including maintenance) will be provided.
+
 # Bunny [![Discord](https://img.shields.io/discord/1196075698301968455?style=social&logo=discord&label=Pyoncord)](https://discord.gg/XjYgWXHb9Q)
-A mod for Discord's mobile apps, a fork of [Vendetta](https://github.com/vendetta-mod/Vendetta/).
+A mod for Discord's mobile apps.
 
 ## Installing
 
